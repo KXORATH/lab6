@@ -33,5 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            piotrtokatski/lab6:abcd
+            piotrtokarski/lab6:abcd
           
